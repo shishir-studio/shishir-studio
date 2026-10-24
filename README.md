@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Shariar Chowdhury Shishir 👋</h1>
-<h3 align="center">Android Developer • UI/UX Designer • Digital Marketer</h3>
+<p align="center">
+  <img src="banner.png" alt="Shariar Chowdhury Shishir - Shishir Digital Solutions" width="100%">
+</p>
 
 <p align="center">
-I design, build and market mobile apps, from idea to Play Store to customers.
+  <b>Founder, Shishir Digital Solutions</b><br>
+  I design, build and market mobile apps, from idea to Play Store to customers.
 </p>
 
 ---
